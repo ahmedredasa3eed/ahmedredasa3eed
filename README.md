@@ -16,9 +16,11 @@
 <br/>  
 
 
-## My Skill Set  
+## My Skills : 
 <table><tr>
+  
   <td valign="top" width="50%">
+    
 ### Frontend Tools  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
@@ -51,7 +53,7 @@
 <br/>  
 
 
-## Connect with me  
+## Connect with me :
 <div align="center">
 <a href="https://linkedin.com/in/ahmedredadev" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -68,7 +70,7 @@
 <br/>  
 
 
-## Github Stats  
+## Github Stats : 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedredasa3eed&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
