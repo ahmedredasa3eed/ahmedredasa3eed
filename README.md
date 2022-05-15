@@ -1,7 +1,7 @@
-![I'm Ahmed, Senior Backend Laravel Developer](https://readme-typing-svg.herokuapp.com?size=25&color=8DC720&lines=Hey%2C+I'm+Ahmed+Reda;Senior+Backend+Laravel+Developer;Bugs+Fighter+%F0%9F%97%A1%EF%B8%8F)  
+![I'm Ahmed, Senior Backend Laravel Developer](https://readme-typing-svg.herokuapp.com?size=25&color=8DC720&lines=Hey%2C+I'm+Ahmed+Reda;Senior+Laravel+Developer;Bugs+Fighter+%F0%9F%97%A1%EF%B8%8F)  
   
 
-### <div align="center">I'm Ahmed, Senior Backend Laravel Developer, currently working remotely 🚀</div>  
+### I'm Ahmed, Senior Backend Laravel Developer, currently working remotely 🚀  
   
 
 - 🔭 I’m currently working on [FinTech System](https://ahmedreda.net)  
@@ -10,17 +10,15 @@
 - ❓ Feel free to ask me about anything at Backend development or any related software technologies.  
   
 
-- My website : [ahmedreda.net](https://ahmedreda.net)  
+- **🖥️ My website : [www.ahmedreda.net](https://ahmedreda.net)**  
   
 
 <br/>  
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
+<table><tr>
+  <td valign="top" width="50%">
 ### Frontend Tools  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
@@ -33,9 +31,9 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
-
-
+</td>
+  
+  <td valign="top" width="50%">
 
 ### Backend Tools  
 <div align="center">  
@@ -47,11 +45,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
+</td>
+  </tr></table>  
 
 <br/>  
 
@@ -83,6 +78,3 @@
 </div>  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
