@@ -17,7 +17,7 @@
 
 
 ## My Skills : 
-<table><tr>
+<table style="border:0px;"><tr>
   
   <td valign="top" width="50%">
     
